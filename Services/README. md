@@ -1,0 +1,47 @@
+# Bakery Website Wireframes - HTML Templates
+
+This repository contains semantic HTML5 wireframe templates based on the design mockups for a bakery website. All files are written using clean, structured HTML with minimal or no custom styling, making them ready for CSS styling frameworks (like Tailwind CSS or Bootstrap) or custom stylesheets.
+
+## Files Included
+
+1. **`index.html`** (Homepage)
+   - Header with Logo and Navigation links.
+   - Hero section featuring a fresh bread hero shot and an "Order today" CTA button.
+   - Feature grid showcasing sections for **Today's menu**, **Custom cakes**, and **Wholesale**.
+   - Newsletter sign-up strip with a form.
+   - Footer section including operating hours and social media links.
+
+2. **`about.html`** (About Us)
+   - Header with Logo and Navigation links.
+   - **Our story** section with descriptive text placeholder and a baker / pop-up stall photo placeholder.
+   - **Mission and vision** section.
+   - **Who we serve** section.
+   - Standard footer.
+
+3. **`products.html`** (Product Gallery / Page)
+   - Header with Logo and Navigation links.
+   - Page title: **Product gallery**.
+   - Product grid with cards for **Sourdough** (with a "vegan" badge), **Pastries** (with a "gluten-free" badge), **Custom cakes**, and **Wholesale**.
+   - Pre-order CTA section with a button.
+   - Standard footer.
+
+4. **`enquiry.html`** (Order / Custom Cake Enquiry Page)
+   - Header with Logo and Navigation links.
+   - **Order / custom cake enquiry** form containing:
+     - Full name input field
+     - Email or phone contact field
+     - Pickup date selector
+     - Order type dropdown menu
+     - Details / dietary notes textarea
+     - Submit button
+   - Standard footer.
+
+5. **`contact.html`** (Find Us / Contact Page)
+   - Header with Logo and Navigation links.
+   - **Find us** section with location text placeholders.
+   - Interactive map placeholders for **Map: branch 1** and **Map: branch 2**.
+   - Standard footer.
+
+## Usage
+
+
